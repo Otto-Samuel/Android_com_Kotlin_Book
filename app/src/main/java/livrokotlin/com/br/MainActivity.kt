@@ -15,6 +15,6 @@ class MainActivity : Activity()
         val texto = TextView(this)
         texto.text = "hello kotlin"
 
-        setContentView(texto)
+        setContentView(R.layout.activity_main)
     }
 }
