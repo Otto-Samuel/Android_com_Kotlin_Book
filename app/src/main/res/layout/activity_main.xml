@@ -13,9 +13,10 @@
         android:layout_marginBottom="16dp" />
 
     <Button
-        android:id="@+id/myButton"
-        android:layout_width="match_parent"
+        android:id="@+id/meu_botao"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Clique Aqui" />
+
 
 </LinearLayout>
